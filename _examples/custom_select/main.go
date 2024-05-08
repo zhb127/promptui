@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/manifoldco/promptui"
+	"github.com/zhb127/promptui"
 )
 
 type pepper struct {
